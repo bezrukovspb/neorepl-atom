@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle neorepl-atom",
+        "command": "neorepl-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "neorepl-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "neorepl-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "neorepl-atom",
+  "main": "./lib/neorepl-atom",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "neorepl-atom:toggle"
+  },
+  "repository": "https://github.com/atom/neorepl-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
