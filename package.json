@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "neorepl-atom:toggle"
+    "atom-workspace": "neorepl-atom:eval"
   },
   "repository": "https://github.com/atom/neorepl-atom",
   "license": "MIT",
