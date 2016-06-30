@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-j": "neorepl-atom:eval"
+    "ctrl-alt-j": "neorepl-atom:eval"
   }
 }
